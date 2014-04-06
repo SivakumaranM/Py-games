@@ -1,5 +1,7 @@
 # Pong - Multiplayer game
-# One player can use the up and down arrow keys and the other player can use keys W and S for controlling the respective pads
+# Keyboard Controls for moving pads
+# Player 1: Up and down arrows
+# Player 2: Keys W and S
 
 import simplegui
 import random
