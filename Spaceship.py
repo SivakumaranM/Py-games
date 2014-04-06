@@ -1,4 +1,8 @@
 # Spaceship - program template for RiceRocks
+# Controls:
+# Moving the spaceship: Arrow keys
+# Shoot: Space bar
+
 import simplegui
 import math
 import random
